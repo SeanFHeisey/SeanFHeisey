@@ -1,6 +1,6 @@
 # Sean Heisey
 
-**Computer Science @ University of Central Florida | Graduating April 2026**
+**Computer Science @ University of Central Florida | Graduating May 9th 2026**
 
 Currently building an AI-powered chatbot for Orange County Public Schools. Seeking software engineering roles starting May 2026.
 
