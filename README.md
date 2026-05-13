@@ -4,7 +4,7 @@
 
 Currently building an AI-powered chatbot for Orange County Public Schools. Seeking software engineering roles starting May 2026.
 
-📍 Orlando, FL &nbsp;|&nbsp; ✉️ [seaner2@frontier.com](mailto:sean.heisey0@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sean-heisey)
+📍 Orlando, FL &nbsp;|&nbsp; ✉️ [sean.heisey0@gmail.com](mailto:sean.heisey0@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sean-heisey)
 
 ## Tech Stack
 
